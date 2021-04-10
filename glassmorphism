@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEB DESIGN</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,600;0,900;1,100;1,200;1,300;1,400;1,600;1,900&display=swap"
+        rel="stylesheet">
+    <script src="https://use.fontawesome.com/636a768a50.js"></script>
+</head>
+
+<body>
+    <section>
+        <div class="container">
+            <header>
+                <ul>
+                    <li><a href="">IT</a></li>
+                    <li><a href="">ESP</a></li>
+                </ul>
+                <ul>
+                    <li><a href="" class="active">Home</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Service</a></li>
+                    <li><a href="">Contact</a></li>
+                </ul>
+            </header>
+            <div class="content">
+                <h2>WEB DESIGN</h2>
+                <p>Web design encompasses many different skills and disciplines in the production and maintenance of
+                    websites. The different areas of web design include web graphic design; user interface design (UI
+                    design); authoring, including standardised code and proprietary software; user experience design (UX
+                    design); and search engine optimization. </p>
+                <button><a href="">Find out more</a></button>
+            </div>
+            <div class="imgBx">
+                <img src="img/img3.png" alt="">
+            </div>
+            <ul class="link">
+                <li><a href="#">
+                        <i class="fa fa-youtube" style="font-size: 2rem" aria-hidden="true"></i>
+                    </a></li>
+                <li><a href="#"><i class="fa fa-github" style="font-size: 2rem" aria-hidden="true"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook" style="font-size: 2rem" aria-hidden="true"></i></a></li>
+            </ul>
+        </div>
+        <!--end Container-->
+        <div class="copyrightText">Developed by <a href="https://github.com/ViolettaRavotto"
+                target="_blank"><strong>ViolettaRa</strong></a></div>
+    </section>
+</body>
+
+</html>
